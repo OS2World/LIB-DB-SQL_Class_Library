@@ -1,0 +1,388 @@
+
+ KSQL001D
+
+ Start         Length     Name                   Class
+ 0001:00000000 000008294H CODE32                 CODE 32-bit
+               at offset 00000000 05440H bytes from .\koracle.obj (D:\IBK\class\koracle.cpp)
+               at offset 00005440 029C0H bytes from .\ksql.obj (D:\IBK\class\ksql.cpp)
+               at offset 00007e00 0034CH bytes from E:\IBMCPP\LIB\DDE4MBSI.LIB (E:\build\cpplib\source\EXCEPT.CPP)
+               at offset 0000814c 0002CH bytes from E:\IBMCPP\LIB\DDE4MBSI.LIB (E:\build\RT\SRC\DLLINIT.C)
+               at offset 00008178 0011CH bytes from E:\IBMCPP\LIB\DDE4MBSI.LIB (E:\build\RT\SRC\CTORDTOR.C)
+
+ 0002:00000000 000001780H DATA32                 DATA 32-bit
+               at offset 00000000 00D10H bytes from .\koracle.obj (D:\IBK\class\koracle.cpp)
+               at offset 00000d10 00A50H bytes from .\ksql.obj (D:\IBK\class\ksql.cpp)
+               at offset 00001760 00004H bytes from E:\IBMCPP\LIB\DDE4MBSI.LIB (E:\BUILD\RT\SRC\DLLSTUB.ASM)
+               at offset 00001770 00010H bytes from E:\IBMCPP\LIB\DDE4MBSI.LIB (E:\build\RT\SRC\CTORDTOR.C)
+
+ 0002:00001780 000000000H CTOR_DTOR1             DATA 32-bit
+ 0002:00001780 000000000H CTOR_DTOR2             DATA 32-bit
+ 0002:00001780 000000000H CTOR_DTOR3             DATA 32-bit
+ 0002:00001780 0000008F0H CONST32                CONST 32-bit
+               at offset 00000000 00670H bytes from .\koracle.obj (D:\IBK\class\koracle.cpp)
+               at offset 00000670 00280H bytes from .\ksql.obj (D:\IBK\class\ksql.cpp)
+
+ 0002:00002070 000000000H EDC1                   EDC_CLASS 32-bit
+ 0002:00002070 000000000H EDC2                   EDC_CLASS 32-bit
+ 0002:00002070 000000000H EDC3                   EDC_CLASS 32-bit
+ 0002:00002070 000000000H BSS32                  BSS 32-bit
+ 0002:00002070 0000002DCH c_common               BSS 32-bit
+
+ Origin   Group
+ 0000:0   FLAT
+ 0002:0   DGROUP
+
+ Address       Export                  Alias
+
+ 0001:00005700 getCursor__8KSqlLinkFPP10KSqlCursor  getCursor__8KSqlLinkFPP10KSqlCursor
+ 0001:000059CC name__9KSqlErrorCFv     name__9KSqlErrorCFv
+ 0001:00001C24 __ct__8KOraLinkFPcT1s   __ct__8KOraLinkFPcT1s
+ 0001:000059D4 __ct__9KSqlErrorFPCcUlQ2_10IException8Severity  __ct__9KSqlErrorFPCcUlQ2_10IException8Severity
+ 0001:000058E4 __ct__9KSqlErrorFRC9KSqlError  __ct__9KSqlErrorFRC9KSqlError
+ 0001:00005948 __dt__9KSqlErrorFv      __dt__9KSqlErrorFv
+ 0001:00005458 __ls__10KSqlCursorF7IString  __ls__10KSqlCursorF7IString
+ 0001:000056E0 __ls__10KSqlCursorFc    __ls__10KSqlCursorFc
+ 0001:000055D8 __ls__10KSqlCursorFd    __ls__10KSqlCursorFd
+ 0001:000055F0 __ls__10KSqlCursorFf    __ls__10KSqlCursorFf
+ 0001:00005620 __ls__10KSqlCursorFi    __ls__10KSqlCursorFi
+ 0001:00005650 __ls__10KSqlCursorFl    __ls__10KSqlCursorFl
+ 0001:00005560 __ls__10KSqlCursorFPc   __ls__10KSqlCursorFPc
+ 0001:000054E8 __ls__10KSqlCursorFPSc  __ls__10KSqlCursorFPSc
+ 0001:00005470 __ls__10KSqlCursorFPUc  __ls__10KSqlCursorFPUc
+ 0001:00005688 __ls__10KSqlCursorFs    __ls__10KSqlCursorFs
+ 0001:000056C4 __ls__10KSqlCursorFSc   __ls__10KSqlCursorFSc
+ 0001:000056A4 __ls__10KSqlCursorFUc   __ls__10KSqlCursorFUc
+ 0001:00005608 __ls__10KSqlCursorFUi   __ls__10KSqlCursorFUi
+ 0001:00005638 __ls__10KSqlCursorFUl   __ls__10KSqlCursorFUl
+ 0001:00005668 __ls__10KSqlCursorFUs   __ls__10KSqlCursorFUs
+ 0001:00005BAC __rs__10KSqlCursorFPc   __rs__10KSqlCursorFPc
+ 0001:00005B10 __rs__10KSqlCursorFPSc  __rs__10KSqlCursorFPSc
+ 0001:00005A74 __rs__10KSqlCursorFPUc  __rs__10KSqlCursorFPUc
+ 0001:00005440 __rs__10KSqlCursorFR7IString  __rs__10KSqlCursorFR7IString
+ 0001:00007AF0 __rs__10KSqlCursorFRc   __rs__10KSqlCursorFRc
+ 0001:00005C48 __rs__10KSqlCursorFRd   __rs__10KSqlCursorFRd
+ 0001:00005F68 __rs__10KSqlCursorFRf   __rs__10KSqlCursorFRf
+ 0001:00006588 __rs__10KSqlCursorFRi   __rs__10KSqlCursorFRi
+ 0001:00006BA0 __rs__10KSqlCursorFRl   __rs__10KSqlCursorFRl
+ 0001:000071C0 __rs__10KSqlCursorFRs   __rs__10KSqlCursorFRs
+ 0001:000077E0 __rs__10KSqlCursorFRSc  __rs__10KSqlCursorFRSc
+ 0001:000074D0 __rs__10KSqlCursorFRUc  __rs__10KSqlCursorFRUc
+ 0001:0000627C __rs__10KSqlCursorFRUi  __rs__10KSqlCursorFRUi
+ 0001:00006894 __rs__10KSqlCursorFRUl  __rs__10KSqlCursorFRUl
+ 0001:00006EAC __rs__10KSqlCursorFRUs  __rs__10KSqlCursorFRUs
+ 0002:00000D10 __vft10KSqlCursor       __vft10KSqlCursor
+ 0002:000000A8 __vft8KOraLink8KSqlLink  __vft8KOraLink8KSqlLink
+ 0002:00000DB8 __vft8KSqlLink          __vft8KSqlLink
+ 0002:00000DE8 __vft9KSqlError10IException  __vft9KSqlError10IException
+
+  Address         Publics by Name
+
+ 0002:0000214C       @BSSD:\IBK\class\koracle.cpp
+ 0002:00002074       @BSSD:\IBK\class\ksql.cpp
+ 0000:00000000  Imp  addLocation__10IExceptionFRC18IExceptionLocation (DDE4CC.113)
+ 0001:00001294       add__Q2_10KOraCursor6ColumnFPcQ2_10KSqlCursor7VarTypels
+ 0001:000018D0       allocCursor__8KOraLinkFv
+ 0000:00000000  Imp  appendText__10IExceptionFPCc (DDE4CC.83)
+ 0000:00000000  Imp  atol                 (DDE4MBS.atol)
+ 0001:000043C4       beginBind__10KOraCursorFv
+ 0001:000008EC       beginFetch__10KOraCursorFv
+ 0001:00003724       bindValue__10KOraCursorFd
+ 0001:00003D08       bindValue__10KOraCursorFl
+ 0001:00002F1C       bindValue__10KOraCursorFR7IString
+ 0001:0000453C       bind__10KOraCursorFPcQ2_10KSqlCursor7VarTypel
+ 0001:000017A4       commit__8KOraLinkFv
+ 0001:00001274       count__Q2_10KOraCursor6ColumnFv
+ 0001:00001A58       dataBaseName__8KOraLinkFv
+ 0001:0000480C       define__10KOraCursorFPcQ2_10KSqlCursor7VarTypel
+ 0001:00000A30       descrInfo__Q2_10KOraCursor6ColumnFslN21
+ 0001:0000132C       drop__Q2_10KOraCursor6ColumnFv
+ 0001:0000287C       execute__10KOraCursorFv
+ 0001:00000474       fetchValue__10KOraCursorFR7IString
+ 0001:00001EB8       fetchValue__10KOraCursorFRd
+ 0001:00002230       fetchValue__10KOraCursorFRl
+ 0001:000025D8       fetch__10KOraCursorFv
+ 0001:00005700       getCursor__8KSqlLinkFPP10KSqlCursor
+ 0000:00000000  Imp  isRecoverable__10IExceptionCFv (DDE4CC.115)
+ 0000:00000000  Imp  logExceptionData__10IExceptionFv (DDE4CC.93)
+ 0001:000059CC       name__9KSqlErrorCFv
+ 0001:00001350       newParseRequired__10KOraCursorFv
+ 0001:000058C0       newParseRequired__10KSqlCursorFv
+ 0000:00000000  Imp  obndrv               (ORA7O32.64)
+ 0000:00000000  Imp  ocan                 (ORA7O32.65)
+ 0000:00000000  Imp  oclose               (ORA7O32.85)
+ 0000:00000000  Imp  ocom                 (ORA7O32.86)
+ 0000:00000000  Imp  odefin               (ORA7O32.87)
+ 0000:00000000  Imp  odescr               (ORA7O32.273)
+ 0000:00000000  Imp  oerhms               (ORA7O32.275)
+ 0000:00000000  Imp  oexn                 (ORA7O32.277)
+ 0000:00000000  Imp  ofen                 (ORA7O32.92)
+ 0000:00000000  Imp  ologof               (ORA7O32.279)
+ 0000:00000000  Imp  oopen                (ORA7O32.281)
+ 0000:00000000  Imp  oparse               (ORA7O32.282)
+ 0000:00000000  Imp  orlon                (ORA7O32.97)
+ 0000:00000000  Imp  orol                 (ORA7O32.283)
+ 0001:00004AF8       parse__10KOraCursorFPcsT2l
+ 0001:00001678       rollback__8KOraLinkFv
+ 0001:00000470       rowsProcessed__10KOraCursorFv
+ 0001:00000468       selectColumnCount__10KOraCursorFv
+ 0001:00001E90       selectColumnDescription__10KOraCursorFi
+ 0001:00001EA4       selectColumnName__10KOraCursorFi
+ 0001:00000428       selectColumnScale__10KOraCursorFi
+ 0001:0000043C       selectColumnSize__10KOraCursorFi
+ 0001:00000450       selectColumnType__10KOraCursorFi
+ 0000:00000000  Imp  setErrorId__10IExceptionFUl (DDE4CC.77)
+ 0000:00000000  Imp  setText__10IExceptionFPCc (DDE4CC.110)
+ 0000:00000000  Imp  terminate__10IExceptionFv (DDE4CC.87)
+ 0000:00000000  Imp  upperCase__7IStringFv (DDE4MUI.321)
+ 0000:00000000  Imp  word__7IStringCFUi   (DDE4MUI.342)
+ 0000:00000000  Imp  _atofieee            (DDE4MBS._atofieee)
+ 0002:00001760       _dllentry
+ 0001:0000814C       _DLL_InitTerm
+ 0002:00002070       _edata
+ 0002:0000234C       _end
+ 0001:00007E00       _Exception_CPP
+ 0000:00000000  Imp  _exception_dllinit   (DDE4MBS._exception_dllinit)
+ 0000:00000000  Imp  _fltused             (DDE4MBS._fltused)
+ 0000:00000000  Imp  _matherr             (DDE4MBS._matherr)
+ 0002:00002070       _matherr_ptr
+ 0000:00000000  Imp  _PGLOBAL_PTR         (DDE4MBS._PGLOBAL_PTR)
+ 0000:00000000  Imp  _ProfileUnwind32     (DDE4MBS._ProfileUnwind32)
+ 0000:00000000  Imp  __apl__7IStringFPCc  (DDE4MUI.290)
+ 0000:00000000  Imp  __apl__7IStringFRC7IString (DDE4MUI.300)
+ 0000:00000000  Imp  __as__7IStringFRC7IString (DDE4MUI.281)
+ 0002:00001770       __ctdtused
+ 0002:00002148       __ctordtorCurrent
+ 0002:00001780       __ctordtorEnd
+ 0001:000081B0       __ctordtorInit
+ 0002:00001780       __ctordtorStart
+ 0001:00008178       __ctordtorTerm
+ 0000:00000000  Imp  __ct__10IExceptionFPCcUlQ2_10IException8Severity (DDE4CC.108)
+ 0000:00000000  Imp  __ct__10IExceptionFRC10IException (DDE4CC.73)
+ 0001:00001DF0       __ct__10KOraCursorFv
+ 0000:00000000  Imp  __ct__18IExceptionLocationFPCcT1Ul (DDE4CC.70)
+ 0000:00000000  Imp  __ct__7IStringFd     (DDE4MUI.283)
+ 0000:00000000  Imp  __ct__7IStringFi     (DDE4MUI.285)
+ 0000:00000000  Imp  __ct__7IStringFl     (DDE4MUI.249)
+ 0000:00000000  Imp  __ct__7IStringFPCc   (DDE4MUI.277)
+ 0000:00000000  Imp  __ct__7IStringFPCvUic (DDE4MUI.258)
+ 0000:00000000  Imp  __ct__7IStringFRC7IString (DDE4MUI.286)
+ 0000:00000000  Imp  __ct__7IStringFs     (DDE4MUI.250)
+ 0000:00000000  Imp  __ct__7IStringFv     (DDE4MUI.251)
+ 0001:00001C24       __ct__8KOraLinkFPcT1s
+ 0001:00005890       __ct__8KSqlLinkFs
+ 0001:000059D4       __ct__9KSqlErrorFPCcUlQ2_10IException8Severity
+ 0001:000058E4       __ct__9KSqlErrorFRC9KSqlError
+ 0001:00000000       __ct__Q2_10KOraCursor6ColumnFPcQ2_10KSqlCursor7VarTypels
+ 0001:000015F4       __ct__Q2_10KOraCursor6ColumnFv
+ 0000:00000000  Imp  __CurrentException   (DDE4MBS.__CurrentException)
+ 0000:00000000  Imp  __dl__FPv            (DDE4MBS.__dl__FPv)
+ 0000:00000000  Imp  __dt__10IExceptionFv (DDE4CC.109)
+ 0001:00001434       __dt__10KOraCursorFv
+ 0001:000058C4       __dt__10KSqlCursorFv
+ 0000:00000000  Imp  __dt__7IStringFv     (DDE4MUI.284)
+ 0001:00001A60       __dt__8KOraLinkFv
+ 0001:00005820       __dt__8KSqlLinkFv
+ 0001:00005948       __dt__9KSqlErrorFv
+ 0001:00001370       __dt__Q2_10KOraCursor6ColumnFv
+ 0000:00000000  Imp  __Invoke__Delete     (DDE4MBS.__Invoke__Delete)
+ 0000:00000000  Imp  __Invoke__Destructor (DDE4MBS.__Invoke__Destructor)
+ 0001:00005458       __ls__10KSqlCursorF7IString
+ 0001:000056E0       __ls__10KSqlCursorFc
+ 0001:000055D8       __ls__10KSqlCursorFd
+ 0001:000055F0       __ls__10KSqlCursorFf
+ 0001:00005620       __ls__10KSqlCursorFi
+ 0001:00005650       __ls__10KSqlCursorFl
+ 0001:00005560       __ls__10KSqlCursorFPc
+ 0001:000054E8       __ls__10KSqlCursorFPSc
+ 0001:00005470       __ls__10KSqlCursorFPUc
+ 0001:00005688       __ls__10KSqlCursorFs
+ 0001:000056C4       __ls__10KSqlCursorFSc
+ 0001:000056A4       __ls__10KSqlCursorFUc
+ 0001:00005608       __ls__10KSqlCursorFUi
+ 0001:00005638       __ls__10KSqlCursorFUl
+ 0001:00005668       __ls__10KSqlCursorFUs
+ 0000:00000000  Imp  __nw__FUi            (DDE4MBS.__nw__FUi)
+ 0000:00000000  Imp  __pl__7IStringCFPCc  (DDE4MUI.291)
+ 0000:00000000  Imp  __pl__7IStringCFRC7IString (DDE4MUI.293)
+ 0000:00000000  Imp  __pl__FPCcRC7IString (DDE4MUI.302)
+ 0000:00000000  Imp  __PureVirtualCalled  (DDE4MBS.__PureVirtualCalled)
+ 0000:00000000  Imp  __RestoreRegsAndJump (DDE4MBS.__RestoreRegsAndJump)
+ 0001:00005BAC       __rs__10KSqlCursorFPc
+ 0001:00005B10       __rs__10KSqlCursorFPSc
+ 0001:00005A74       __rs__10KSqlCursorFPUc
+ 0001:00005440       __rs__10KSqlCursorFR7IString
+ 0001:00007AF0       __rs__10KSqlCursorFRc
+ 0001:00005C48       __rs__10KSqlCursorFRd
+ 0001:00005F68       __rs__10KSqlCursorFRf
+ 0001:00006588       __rs__10KSqlCursorFRi
+ 0001:00006BA0       __rs__10KSqlCursorFRl
+ 0001:000071C0       __rs__10KSqlCursorFRs
+ 0001:000077E0       __rs__10KSqlCursorFRSc
+ 0001:000074D0       __rs__10KSqlCursorFRUc
+ 0001:0000627C       __rs__10KSqlCursorFRUi
+ 0001:00006894       __rs__10KSqlCursorFRUl
+ 0001:00006EAC       __rs__10KSqlCursorFRUs
+ 0000:00000000  Imp  __Throw              (DDE4MBS.__Throw)
+ 0001:000041E8       __vc__Q2_10KOraCursor6ColumnFi
+ 0002:00000000       __vft10KOraCursor10KSqlCursor
+ 0002:00000D10       __vft10KSqlCursor
+ 0002:000000A8       __vft8KOraLink8KSqlLink
+ 0002:00000DB8       __vft8KSqlLink
+ 0002:00000DE8       __vft9KSqlError10IException
+
+  Address         Publics by Value
+
+ 0000:00000000  Imp  __dl__FPv            (DDE4MBS.__dl__FPv)
+ 0000:00000000  Imp  appendText__10IExceptionFPCc (DDE4CC.83)
+ 0000:00000000  Imp  __ct__7IStringFPCvUic (DDE4MUI.258)
+ 0000:00000000  Imp  __pl__7IStringCFPCc  (DDE4MUI.291)
+ 0000:00000000  Imp  __apl__7IStringFPCc  (DDE4MUI.290)
+ 0000:00000000  Imp  __nw__FUi            (DDE4MBS.__nw__FUi)
+ 0000:00000000  Imp  __Throw              (DDE4MBS.__Throw)
+ 0000:00000000  Imp  __pl__FPCcRC7IString (DDE4MUI.302)
+ 0000:00000000  Imp  __RestoreRegsAndJump (DDE4MBS.__RestoreRegsAndJump)
+ 0000:00000000  Imp  orlon                (ORA7O32.97)
+ 0000:00000000  Imp  __Invoke__Destructor (DDE4MBS.__Invoke__Destructor)
+ 0000:00000000  Imp  logExceptionData__10IExceptionFv (DDE4CC.93)
+ 0000:00000000  Imp  __Invoke__Delete     (DDE4MBS.__Invoke__Delete)
+ 0000:00000000  Imp  upperCase__7IStringFv (DDE4MUI.321)
+ 0000:00000000  Imp  __dt__10IExceptionFv (DDE4CC.109)
+ 0000:00000000  Imp  word__7IStringCFUi   (DDE4MUI.342)
+ 0000:00000000  Imp  oerhms               (ORA7O32.275)
+ 0000:00000000  Imp  _atofieee            (DDE4MBS._atofieee)
+ 0000:00000000  Imp  _exception_dllinit   (DDE4MBS._exception_dllinit)
+ 0000:00000000  Imp  _fltused             (DDE4MBS._fltused)
+ 0000:00000000  Imp  __ct__7IStringFPCc   (DDE4MUI.277)
+ 0000:00000000  Imp  terminate__10IExceptionFv (DDE4CC.87)
+ 0000:00000000  Imp  obndrv               (ORA7O32.64)
+ 0000:00000000  Imp  oexn                 (ORA7O32.277)
+ 0000:00000000  Imp  __PureVirtualCalled  (DDE4MBS.__PureVirtualCalled)
+ 0000:00000000  Imp  __ct__10IExceptionFRC10IException (DDE4CC.73)
+ 0000:00000000  Imp  ologof               (ORA7O32.279)
+ 0000:00000000  Imp  oclose               (ORA7O32.85)
+ 0000:00000000  Imp  __CurrentException   (DDE4MBS.__CurrentException)
+ 0000:00000000  Imp  odescr               (ORA7O32.273)
+ 0000:00000000  Imp  atol                 (DDE4MBS.atol)
+ 0000:00000000  Imp  oopen                (ORA7O32.281)
+ 0000:00000000  Imp  _PGLOBAL_PTR         (DDE4MBS._PGLOBAL_PTR)
+ 0000:00000000  Imp  oparse               (ORA7O32.282)
+ 0000:00000000  Imp  odefin               (ORA7O32.87)
+ 0000:00000000  Imp  __dt__7IStringFv     (DDE4MUI.284)
+ 0000:00000000  Imp  orol                 (ORA7O32.283)
+ 0000:00000000  Imp  isRecoverable__10IExceptionCFv (DDE4CC.115)
+ 0000:00000000  Imp  _matherr             (DDE4MBS._matherr)
+ 0000:00000000  Imp  setErrorId__10IExceptionFUl (DDE4CC.77)
+ 0000:00000000  Imp  __ct__18IExceptionLocationFPCcT1Ul (DDE4CC.70)
+ 0000:00000000  Imp  __ct__7IStringFv     (DDE4MUI.251)
+ 0000:00000000  Imp  addLocation__10IExceptionFRC18IExceptionLocation (DDE4CC.113)
+ 0000:00000000  Imp  setText__10IExceptionFPCc (DDE4CC.110)
+ 0000:00000000  Imp  __as__7IStringFRC7IString (DDE4MUI.281)
+ 0000:00000000  Imp  __ct__7IStringFRC7IString (DDE4MUI.286)
+ 0000:00000000  Imp  __ct__7IStringFs     (DDE4MUI.250)
+ 0000:00000000  Imp  __ct__7IStringFl     (DDE4MUI.249)
+ 0000:00000000  Imp  __ct__7IStringFi     (DDE4MUI.285)
+ 0000:00000000  Imp  _ProfileUnwind32     (DDE4MBS._ProfileUnwind32)
+ 0000:00000000  Imp  ocan                 (ORA7O32.65)
+ 0000:00000000  Imp  ofen                 (ORA7O32.92)
+ 0000:00000000  Imp  __ct__10IExceptionFPCcUlQ2_10IException8Severity (DDE4CC.108)
+ 0000:00000000  Imp  __ct__7IStringFd     (DDE4MUI.283)
+ 0000:00000000  Imp  ocom                 (ORA7O32.86)
+ 0000:00000000  Imp  __apl__7IStringFRC7IString (DDE4MUI.300)
+ 0000:00000000  Imp  __pl__7IStringCFRC7IString (DDE4MUI.293)
+ 0001:00000000       __ct__Q2_10KOraCursor6ColumnFPcQ2_10KSqlCursor7VarTypels
+ 0001:00000428       selectColumnScale__10KOraCursorFi
+ 0001:0000043C       selectColumnSize__10KOraCursorFi
+ 0001:00000450       selectColumnType__10KOraCursorFi
+ 0001:00000468       selectColumnCount__10KOraCursorFv
+ 0001:00000470       rowsProcessed__10KOraCursorFv
+ 0001:00000474       fetchValue__10KOraCursorFR7IString
+ 0001:000008EC       beginFetch__10KOraCursorFv
+ 0001:00000A30       descrInfo__Q2_10KOraCursor6ColumnFslN21
+ 0001:00001274       count__Q2_10KOraCursor6ColumnFv
+ 0001:00001294       add__Q2_10KOraCursor6ColumnFPcQ2_10KSqlCursor7VarTypels
+ 0001:0000132C       drop__Q2_10KOraCursor6ColumnFv
+ 0001:00001350       newParseRequired__10KOraCursorFv
+ 0001:00001370       __dt__Q2_10KOraCursor6ColumnFv
+ 0001:00001434       __dt__10KOraCursorFv
+ 0001:000015F4       __ct__Q2_10KOraCursor6ColumnFv
+ 0001:00001678       rollback__8KOraLinkFv
+ 0001:000017A4       commit__8KOraLinkFv
+ 0001:000018D0       allocCursor__8KOraLinkFv
+ 0001:00001A58       dataBaseName__8KOraLinkFv
+ 0001:00001A60       __dt__8KOraLinkFv
+ 0001:00001C24       __ct__8KOraLinkFPcT1s
+ 0001:00001DF0       __ct__10KOraCursorFv
+ 0001:00001E90       selectColumnDescription__10KOraCursorFi
+ 0001:00001EA4       selectColumnName__10KOraCursorFi
+ 0001:00001EB8       fetchValue__10KOraCursorFRd
+ 0001:00002230       fetchValue__10KOraCursorFRl
+ 0001:000025D8       fetch__10KOraCursorFv
+ 0001:0000287C       execute__10KOraCursorFv
+ 0001:00002F1C       bindValue__10KOraCursorFR7IString
+ 0001:00003724       bindValue__10KOraCursorFd
+ 0001:00003D08       bindValue__10KOraCursorFl
+ 0001:000041E8       __vc__Q2_10KOraCursor6ColumnFi
+ 0001:000043C4       beginBind__10KOraCursorFv
+ 0001:0000453C       bind__10KOraCursorFPcQ2_10KSqlCursor7VarTypel
+ 0001:0000480C       define__10KOraCursorFPcQ2_10KSqlCursor7VarTypel
+ 0001:00004AF8       parse__10KOraCursorFPcsT2l
+ 0001:00005440       __rs__10KSqlCursorFR7IString
+ 0001:00005458       __ls__10KSqlCursorF7IString
+ 0001:00005470       __ls__10KSqlCursorFPUc
+ 0001:000054E8       __ls__10KSqlCursorFPSc
+ 0001:00005560       __ls__10KSqlCursorFPc
+ 0001:000055D8       __ls__10KSqlCursorFd
+ 0001:000055F0       __ls__10KSqlCursorFf
+ 0001:00005608       __ls__10KSqlCursorFUi
+ 0001:00005620       __ls__10KSqlCursorFi
+ 0001:00005638       __ls__10KSqlCursorFUl
+ 0001:00005650       __ls__10KSqlCursorFl
+ 0001:00005668       __ls__10KSqlCursorFUs
+ 0001:00005688       __ls__10KSqlCursorFs
+ 0001:000056A4       __ls__10KSqlCursorFUc
+ 0001:000056C4       __ls__10KSqlCursorFSc
+ 0001:000056E0       __ls__10KSqlCursorFc
+ 0001:00005700       getCursor__8KSqlLinkFPP10KSqlCursor
+ 0001:00005820       __dt__8KSqlLinkFv
+ 0001:00005890       __ct__8KSqlLinkFs
+ 0001:000058C0       newParseRequired__10KSqlCursorFv
+ 0001:000058C4       __dt__10KSqlCursorFv
+ 0001:000058E4       __ct__9KSqlErrorFRC9KSqlError
+ 0001:00005948       __dt__9KSqlErrorFv
+ 0001:000059CC       name__9KSqlErrorCFv
+ 0001:000059D4       __ct__9KSqlErrorFPCcUlQ2_10IException8Severity
+ 0001:00005A74       __rs__10KSqlCursorFPUc
+ 0001:00005B10       __rs__10KSqlCursorFPSc
+ 0001:00005BAC       __rs__10KSqlCursorFPc
+ 0001:00005C48       __rs__10KSqlCursorFRd
+ 0001:00005F68       __rs__10KSqlCursorFRf
+ 0001:0000627C       __rs__10KSqlCursorFRUi
+ 0001:00006588       __rs__10KSqlCursorFRi
+ 0001:00006894       __rs__10KSqlCursorFRUl
+ 0001:00006BA0       __rs__10KSqlCursorFRl
+ 0001:00006EAC       __rs__10KSqlCursorFRUs
+ 0001:000071C0       __rs__10KSqlCursorFRs
+ 0001:000074D0       __rs__10KSqlCursorFRUc
+ 0001:000077E0       __rs__10KSqlCursorFRSc
+ 0001:00007AF0       __rs__10KSqlCursorFRc
+ 0001:00007E00       _Exception_CPP
+ 0001:0000814C       _DLL_InitTerm
+ 0001:00008178       __ctordtorTerm
+ 0001:000081B0       __ctordtorInit
+ 0002:00000000       __vft10KOraCursor10KSqlCursor
+ 0002:000000A8       __vft8KOraLink8KSqlLink
+ 0002:00000D10       __vft10KSqlCursor
+ 0002:00000DB8       __vft8KSqlLink
+ 0002:00000DE8       __vft9KSqlError10IException
+ 0002:00001760       _dllentry
+ 0002:00001770       __ctdtused
+ 0002:00001780       __ctordtorStart
+ 0002:00001780       __ctordtorEnd
+ 0002:00002070       _matherr_ptr
+ 0002:00002070       _edata
+ 0002:00002074       @BSSD:\IBK\class\ksql.cpp
+ 0002:00002148       __ctordtorCurrent
+ 0002:0000214C       @BSSD:\IBK\class\koracle.cpp
+ 0002:0000234C       _end
+
+Program entry point at 0001:0000814C
